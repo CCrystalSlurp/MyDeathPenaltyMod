@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "MyDeathPenaltyMod",
+  "author": "CrystalSlurp_",
+  "version": "1.0.0",
+  "description": "A mod that introduces death penalties.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://github.com/CCrystalSlurp/MyDeathPenaltyMod"
+}
